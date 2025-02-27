@@ -7,4 +7,4 @@ This study evaluates the effectiveness of sampling techniques for anomaly detect
 
 The impact of these methods on the class distribution of the sampled dataset and the classifier’s accuracy in distinguishing normal and anomalous stellar objects is analyzed. The results demonstrate that **uncertainty sampling significantly outperforms random sampling**, leading to improved classification performance.
 
-These findings underscore the importance of selecting the right sampling strategy when working with **imbalanced datasets**, providing valuable insights for enhancing anomaly detection in astronomy.
+These findings underscore the importance of selecting the right sampling strategy when working with **imbalanced datasets**, providing insights for enhancing anomaly detection in astronomy.
